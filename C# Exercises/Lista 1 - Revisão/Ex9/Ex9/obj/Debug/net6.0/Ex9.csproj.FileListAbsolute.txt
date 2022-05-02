@@ -1,0 +1,15 @@
+C:\Users\limal\Desktop\AED\Ex9\Ex9\bin\Debug\net6.0\Ex9.exe
+C:\Users\limal\Desktop\AED\Ex9\Ex9\bin\Debug\net6.0\Ex9.deps.json
+C:\Users\limal\Desktop\AED\Ex9\Ex9\bin\Debug\net6.0\Ex9.runtimeconfig.json
+C:\Users\limal\Desktop\AED\Ex9\Ex9\bin\Debug\net6.0\Ex9.dll
+C:\Users\limal\Desktop\AED\Ex9\Ex9\bin\Debug\net6.0\Ex9.pdb
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.csproj.AssemblyReference.cache
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.AssemblyInfoInputs.cache
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.AssemblyInfo.cs
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.dll
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\refint\Ex9.dll
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.pdb
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\Ex9.genruntimeconfig.cache
+C:\Users\limal\Desktop\AED\Ex9\Ex9\obj\Debug\net6.0\ref\Ex9.dll

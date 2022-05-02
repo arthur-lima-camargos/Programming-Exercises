@@ -1,0 +1,15 @@
+C:\Users\limal\Desktop\AED\Ex12\Ex12\bin\Debug\net6.0\Ex12.exe
+C:\Users\limal\Desktop\AED\Ex12\Ex12\bin\Debug\net6.0\Ex12.deps.json
+C:\Users\limal\Desktop\AED\Ex12\Ex12\bin\Debug\net6.0\Ex12.runtimeconfig.json
+C:\Users\limal\Desktop\AED\Ex12\Ex12\bin\Debug\net6.0\Ex12.dll
+C:\Users\limal\Desktop\AED\Ex12\Ex12\bin\Debug\net6.0\Ex12.pdb
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.csproj.AssemblyReference.cache
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.AssemblyInfoInputs.cache
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.AssemblyInfo.cs
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.csproj.CoreCompileInputs.cache
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.dll
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\refint\Ex12.dll
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.pdb
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\Ex12.genruntimeconfig.cache
+C:\Users\limal\Desktop\AED\Ex12\Ex12\obj\Debug\net6.0\ref\Ex12.dll
