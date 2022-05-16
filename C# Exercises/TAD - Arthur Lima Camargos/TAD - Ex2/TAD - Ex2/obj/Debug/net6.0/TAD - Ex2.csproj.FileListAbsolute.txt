@@ -1,0 +1,30 @@
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.exe
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.deps.json
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.runtimeconfig.json
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.dll
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.pdb
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.csproj.AssemblyReference.cache
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.AssemblyInfoInputs.cache
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.AssemblyInfo.cs
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.csproj.CoreCompileInputs.cache
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.dll
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\refint\TAD - Ex2.dll
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.pdb
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.genruntimeconfig.cache
+C:\Users\limal\Desktop\AED\Lista 2 - Recursividade\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\ref\TAD - Ex2.dll
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.exe
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.deps.json
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.runtimeconfig.json
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.dll
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\bin\Debug\net6.0\TAD - Ex2.pdb
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.csproj.AssemblyReference.cache
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.AssemblyInfoInputs.cache
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.AssemblyInfo.cs
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.csproj.CoreCompileInputs.cache
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.dll
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\refint\TAD - Ex2.dll
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.pdb
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\TAD - Ex2.genruntimeconfig.cache
+C:\Users\limal\Desktop\AED\Lista - TAD\TAD - Ex2\TAD - Ex2\obj\Debug\net6.0\ref\TAD - Ex2.dll
