@@ -1,0 +1,15 @@
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.csproj.AssemblyReference.cache
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.AssemblyInfoInputs.cache
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.AssemblyInfo.cs
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.csproj.CoreCompileInputs.cache
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net6.0\ExercicioProposto2.exe
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net6.0\ExercicioProposto2.deps.json
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net6.0\ExercicioProposto2.runtimeconfig.json
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net6.0\ExercicioProposto2.dll
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\bin\Debug\net6.0\ExercicioProposto2.pdb
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.dll
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\refint\ExercicioProposto2.dll
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.pdb
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ExercicioProposto2.genruntimeconfig.cache
+C:\Users\limal\source\repos\ExercicioProposto2\ExercicioProposto2\obj\Debug\net6.0\ref\ExercicioProposto2.dll

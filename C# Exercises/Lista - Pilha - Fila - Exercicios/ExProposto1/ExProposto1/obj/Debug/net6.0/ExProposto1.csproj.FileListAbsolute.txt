@@ -1,0 +1,15 @@
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\bin\Debug\net6.0\ExProposto1.exe
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\bin\Debug\net6.0\ExProposto1.deps.json
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\bin\Debug\net6.0\ExProposto1.runtimeconfig.json
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\bin\Debug\net6.0\ExProposto1.dll
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\bin\Debug\net6.0\ExProposto1.pdb
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.csproj.AssemblyReference.cache
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.AssemblyInfoInputs.cache
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.AssemblyInfo.cs
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.csproj.CoreCompileInputs.cache
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.dll
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\refint\ExProposto1.dll
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.pdb
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ExProposto1.genruntimeconfig.cache
+C:\Users\limal\source\repos\ExProposto1\ExProposto1\obj\Debug\net6.0\ref\ExProposto1.dll
