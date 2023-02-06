@@ -1,0 +1,15 @@
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\bin\Debug\net6.0\JogoDaVelha_ArthurLima.exe
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\bin\Debug\net6.0\JogoDaVelha_ArthurLima.deps.json
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\bin\Debug\net6.0\JogoDaVelha_ArthurLima.runtimeconfig.json
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\bin\Debug\net6.0\JogoDaVelha_ArthurLima.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\bin\Debug\net6.0\JogoDaVelha_ArthurLima.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.csproj.AssemblyReference.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.AssemblyInfoInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.AssemblyInfo.cs
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.csproj.CoreCompileInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\refint\JogoDaVelha_ArthurLima.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\JogoDaVelha_ArthurLima.genruntimeconfig.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Jogo da Velha - JABIL\JogoDaVelha_ArthurLima\JogoDaVelha_ArthurLima\obj\Debug\net6.0\ref\JogoDaVelha_ArthurLima.dll
